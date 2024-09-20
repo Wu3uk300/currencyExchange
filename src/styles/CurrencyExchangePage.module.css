@@ -1,0 +1,16 @@
+.wrapper {
+  background-color: turquoise;
+  min-height: 100vh;
+}
+.container {
+  padding-top: 100px;
+}
+.header {
+  background-color: white;
+  border-radius: 10px;
+  color: turquoise;
+  width: fit-content;
+  padding: 10px;
+  margin: auto;
+  margin-bottom: 20px;
+}
